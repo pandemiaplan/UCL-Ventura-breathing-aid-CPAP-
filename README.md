@@ -1,6 +1,8 @@
 # UCL-Ventura breathing aid (CPAP) – Design and manufacturing package
 ## The UCL-Ventura breathing aid is a Continuous Positive Airway Pressure (CPAP) device that supports patients with breathing difficulties.
 
+**Note:** This is a copy of the web page at https://covid19research.uclb.com/product/ucl-cpap where you could download the material
+
 The UCL-Ventura breathing aid is a Continuous Positive Airway Pressure (CPAP) device (“the CPAP”). The CPAP supports patients with breathing difficulties. It works by pushing an air-oxygen mix into the mouth and nose at a continuous pressure, keeping airways open and increasing the amount of oxygen entering the blood stream. This breathing aid can be used to help Covid-19 patients with serious respiratory problems to breathe more easily and has been shown to help prevent the need for invasive ventilation.
 
 <img align="right" src="https://github.com/pandemiaplan/UCL-Ventura-breathing-aid-CPAP-/blob/master/continuous-positive-airway-pressure-cpap-design-01.jpg" alt="drawing" width="300" alt="Breathing aid device for COVID-19 patients by UCL. By James Tye/UCL"/>
